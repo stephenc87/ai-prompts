@@ -4,9 +4,11 @@ A simple, reusable library of prompts designed to be easy to understand, share, 
 
 ## Examples
 
-| Provider | URL |
-|----------|-------------|
-| ChatGPT | https://chatgpt.com/g/g-p-6a7ef3334444819189dc9dd0c043d3bc-ai-prompt/c/6a7ef489-8d94-83ec-93ef-882191efc955 |
+| Provider | URL                                                            |
+| -------- | -------------------------------------------------------------- |
+| ChatGPT  | https://chatgpt.com/share/6a7f8f69-e0f8-83ec-b308-162f44653de3 |
+| Claude   | https://claude.ai/share/0fe31808-9484-4152-ba0d-9cf9691ddc64   |
+| Co-pilot | https://copilot.microsoft.com/shares/PxHu9zLcTbyxkHvbCcyyp     |
 ## Categories
 Current location: README.md
 
