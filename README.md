@@ -9,6 +9,7 @@ A simple, reusable library of prompts designed to be easy to understand, share, 
 | ChatGPT | https://chatgpt.com/g/g-p-6a7ef3334444819189dc9dd0c043d3bc-ai-prompt/c/6a7ef489-8d94-83ec-93ef-882191efc955 |
 ## Categories
 Current location: README.md
+
 | Category | Description |
 |----------|-------------|
 | **General** | General‑purpose prompts that can be applied across many tasks. |
