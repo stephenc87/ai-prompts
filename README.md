@@ -22,4 +22,4 @@ Current location: README.md
 | **Productivity** | Prompts for planning, organisation, and repeatable workflows. |
 | **Templates** | Reusable structures for creating or adapting prompts. |
 ## Licence
-Unless otherwise indicated, material in this repository is licensed under the Creative Commons Attribution 4.0 International License [(CC BY‑4.0)](LICENCE). You may share and adapt the material, including commercially, subject to the attribution requirements of CC BY 4.0.
+Unless otherwise indicated, material in this repository is licensed under the Creative Commons Attribution 4.0 International License [(CC BY‑4.0)](LICENCE.md). You may share and adapt the material, including commercially, subject to the attribution requirements of CC BY 4.0.
