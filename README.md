@@ -4,11 +4,9 @@ A simple, reusable library of prompts designed to be easy to understand, share, 
 
 ## References
 
-| Provider | URL                                                            |
-| -------- | -------------------------------------------------------------- |
-| ChatGPT  | https://chatgpt.com/share/6a7f8f69-e0f8-83ec-b308-162f44653de3 |
-| Claude   | https://claude.ai/share/0fe31808-9484-4152-ba0d-9cf9691ddc64   |
-| Copilot  | https://copilot.microsoft.com/shares/PxHu9zLcTbyxkHvbCcyyp     |
+| Provider | URL |
+| -------- | --- |
+|          |     |
 ## Changes
 Clearly explain changes made to this document and why.
 Identify any risks, limitations, or unsupported actions.
